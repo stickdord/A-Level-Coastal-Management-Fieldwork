@@ -1,0 +1,4 @@
+SiteID,ManagementType,GroyneHeight(m),WaveCount(per_min),EffectivenessScore(1-5)
+G1,Groyne,2.5,8,3
+SW1,Sea Wall,N/A,5,5
+MR1,Managed Retreat,N/A,N/A,2
